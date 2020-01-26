@@ -1,7 +1,7 @@
 
 <channels>
 <channel>
-<name>[COLOR dodgerblue]||[/COLOR][COLOR lightskyblue]||[/COLOR][COLOR gold]||[/COLOR][COLOR white]||[/COLOR] [COLOR white][B]TV ONLINE[/B][/COLOR][COLOR white]||[/COLOR][COLOR gold]||[/COLOR][COLOR lightskyblue]||[/COLOR][COLOR dodgerblue]||[/COLOR]</name>
+<name>[B][COLOR darkgoldenrod]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR wheat]│[/COLOR][COLOR silver]│[/COLOR][COLOR lightgray]│[/COLOR][COLOR indianred]│[/COLOR][COLOR orangered]✤[/COLOR][COLOR white]⁚⁚TV ONLINE⁚⁚[/COLOR][COLOR orangered]✤[/COLOR][COLOR indianred]│[/COLOR][COLOR lightgray]│[/COLOR][COLOR silver]│[/COLOR][COLOR wheat]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR darkgoldenrod]│[/COLOR][/B]</name>
 <thumbnail>https://ia601503.us.archive.org/20/items/series_20200125/TV%20OLINE.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://images4.alphacoders.com/947/947531.jpg</fanart>
@@ -14,7 +14,7 @@ OS MELHORE CANAIS ONLINE </info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>[COLOR dodgerblue]||[/COLOR][COLOR lightskyblue]||[/COLOR][COLOR gold]||[/COLOR][COLOR white]||[/COLOR] [COLOR white][B]FILMES[/B][/COLOR][COLOR white]||[/COLOR][COLOR gold]||[/COLOR][COLOR lightskyblue]||[/COLOR][COLOR dodgerblue]||[/COLOR]</name>
+<name>[B][COLOR darkgoldenrod]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR wheat]│[/COLOR][COLOR silver]│[/COLOR][COLOR lightgray]│[/COLOR][COLOR indianred]│[/COLOR][COLOR darkgoldenrod]✤[/COLOR][COLOR white]⁚⁚FILMES⁚⁚[/COLOR][COLOR darkgoldenrod]✤[/COLOR][COLOR indianred]│[/COLOR][COLOR lightgray]│[/COLOR][COLOR silver]│[/COLOR][COLOR wheat]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR darkgoldenrod]│[/COLOR][/B]</name>
 <thumbnail>https://ia801503.us.archive.org/20/items/series_20200125/FILMES.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://images4.alphacoders.com/947/947531.jpg</fanart>
@@ -29,7 +29,7 @@ OS MELHORES LANÇAMENTOS </info>
 
 <channels>
 <channel>
-<name>[COLOR dodgerblue]||[/COLOR][COLOR lightskyblue]||[/COLOR][COLOR gold]||[/COLOR][COLOR white]||[/COLOR] [COLOR white][B]SÉRIES[/B][/COLOR][COLOR white]||[/COLOR][COLOR gold]||[/COLOR][COLOR lightskyblue]||[/COLOR][COLOR dodgerblue]||[/COLOR]</name>
+<name>[B][COLOR darkgoldenrod]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR wheat]│[/COLOR][COLOR silver]│[/COLOR][COLOR lightgray]│[/COLOR][COLOR indianred]│[/COLOR][COLOR darkgoldenrod]✤[/COLOR][COLOR white]⁚⁚SÉRIE⁚⁚[/COLOR][COLOR darkgoldenrod]✤[/COLOR][COLOR indianred]│[/COLOR][COLOR lightgray]│[/COLOR][COLOR silver]│[/COLOR][COLOR wheat]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR darkgoldenrod]│[/COLOR][/B]</name>
 <thumbnail>https://ia801503.us.archive.org/20/items/series_20200125/S%C3%89RIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/dracarysaddon/DRACARYSADDON/master/SEX%20EDUCATION%20-%20TEMPORADAS</externallink>
 <fanart>https://images4.alphacoders.com/947/947531.jpg</fanart>
@@ -42,3 +42,31 @@ AS MELHORES SÉRIES DA ATUALIDADE </info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[B][COLOR darkgoldenrod]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR wheat]│[/COLOR][COLOR silver]│[/COLOR][COLOR lightgray]│[/COLOR][COLOR indianred]│[/COLOR][COLOR darkgoldenrod]✤[/COLOR][COLOR white]⁚⁚DESENHO⁚⁚[/COLOR][COLOR darkgoldenrod]✤[/COLOR][COLOR indianred]│[/COLOR][COLOR lightgray]│[/COLOR][COLOR silver]│[/COLOR][COLOR wheat]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR darkgoldenrod]│[/COLOR][/B]</name>
+<thumbnail>https://ia801503.us.archive.org/20/items/series_20200125/S%C3%89RIES.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/dracarysaddon/DRACARYSADDON/master/SEX%20EDUCATION%20-%20TEMPORADAS</externallink>
+<fanart>https://images4.alphacoders.com/947/947531.jpg</fanart>
+<info>
+
+
+OS MELHORES DESENHOS ATUAIS E ANTIGOS PARA SUA ALEGRIA </info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[B][COLOR darkgoldenrod]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR wheat]│[/COLOR][COLOR silver]│[/COLOR][COLOR lightgray]│[/COLOR][COLOR indianred]│[/COLOR][COLOR darkgoldenrod]✤[/COLOR][COLOR white]⁚⁚TOKUSATSU⁚⁚[/COLOR][COLOR darkgoldenrod]✤[/COLOR][COLOR indianred]│[/COLOR][COLOR lightgray]│[/COLOR][COLOR silver]│[/COLOR][COLOR wheat]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR goldenrod]│[/COLOR][COLOR darkgoldenrod]│[/COLOR][/B]</name>
+<thumbnail>https://ia801503.us.archive.org/20/items/series_20200125/S%C3%89RIES.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/dracarysaddon/DRACARYSADDON/master/SEX%20EDUCATION%20-%20TEMPORADAS</externallink>
+<fanart>https://images4.alphacoders.com/947/947531.jpg</fanart>
+<info>
+
+
+OS MELHORES ANIMES PARA VOCÊ </info>
+</channel>
+</channels>
